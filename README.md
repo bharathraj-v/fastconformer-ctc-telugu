@@ -13,4 +13,4 @@ NVIDIA NeMo [stt_en_fastconformer_ctc_large](https://huggingface.co/nvidia/stt_e
 Performance:
 **0.21 CER** on Google FLEURS Test data
 
-Model inference - https://huggingface.co/spaces/bharathraj-v/fastconformer_ctc_telugu
+You can find the model and the inference interface at https://huggingface.co/spaces/bharathraj-v/fastconformer_ctc_telugu
