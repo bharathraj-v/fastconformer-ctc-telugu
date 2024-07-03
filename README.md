@@ -1,7 +1,7 @@
 # ASR using NVIDIA NeMo for Telugu
 NVIDIA NeMo [stt_en_fastconformer_ctc_large](https://huggingface.co/nvidia/stt_en_fastconformer_ctc_large) finetuned on open-source Telugu data.
 
-**Data sources**:
+Data sources:
 
 * https://ai4bharat.iitm.ac.in/shrutilipi/
 * https://www.openslr.org/66/
